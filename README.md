@@ -1,6 +1,6 @@
 # Data Release for "Not OK on VK: An Analysis of In-Platform Censorship on Russias VKontakte"
 
-This repository is the associated raw data collected for the Citizen Lab report titled ["Not OK on VK: An Analysis of In-Platform Censorship on Russias VKontakte".](https://citizenlab.ca)
+This repository is the associated raw data collected for the Citizen Lab report titled ["Not OK on VK: An Analysis of In-Platform Censorship on Russias VKontakte".](https://citizenlab.ca/2023/07/an-analysis-of-in-platform-censorship-on-russias-vkontakte)
 
 The data is available in plaintext comma seperated value format (CSV).  Some files are compressed as ZIP format due to their size.
 
